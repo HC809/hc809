@@ -2,9 +2,13 @@
 👨‍💻 I'm a Full Stack Developer with over 6 years of web development experience. Here's a bit about what I work with:
 
 Backend: C# / .Net (MVC, API)
-Databases: SQL Server, MySQL, PostgreSQL
-Frontend: Next.js / React.js / React Native (Redux, TypeScript, Axios)
+Databases: SQL Server, MySQL, PostgreSQL, DB2, MongoDB, Firebase
+Frontend: Blazor, Next.js / React.js / React Native (Redux, TypeScript, Axios)
 Server-side: Node.js (Express with TypeScript)
+Design Patterns: Repository, Unit Of Work, CQRS
+Arquitectures: N-Tier, Clean Architecture, Multinenacy
+Other Technologies: RabbitMQ, SignalR, HangFire, MediatR, Dapper, Entity Framework
+
 🌐 I have a passion for technology, but when I'm not coding, you might find me traveling, reading, or playing sports.
 
 🌍 I'm currently looking to collaborate with international companies, eager to bring value with my skills, and learn in the process.
