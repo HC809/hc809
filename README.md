@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Hector!
-👨‍💻 I'm a Full Stack Developer with over 6 years of web development experience. Here's a bit about what I work with:
+👨‍💻 I'm a Full Stack Developer with over 7 years of web development experience. Here's a bit about what I work with:
 ___
 
 ### Backend<br>
